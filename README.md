@@ -13,4 +13,4 @@
 <img src ="Resources/SS2.png" />
 
 ---
-Made by <a href = "https://github.com/RodrigoAGM">@RodrigoAGM </a> :smile:
+Made by <a href = "https://github.com/RodrigoAGM">@RodrigoAGM </a> :peru:
